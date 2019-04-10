@@ -1,0 +1,18 @@
+.padding{
+    padding: 5px;
+}
+
+.text-center{
+    text-align: center;
+    padding-top:20px;
+}
+
+.right-panel{
+    background-color: white;
+}
+
+.left-panel{
+    background: url(https://source.unsplash.com/9eXP4VvhCl4/800x600);
+    background-position: center;
+    background-size: cover;
+}
